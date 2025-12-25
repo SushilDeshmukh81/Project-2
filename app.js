@@ -1,3 +1,1 @@
-// Add new feature - Form
-
-// Add new feature - Checkbox
+// Add new Feature - Paragraph

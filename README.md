@@ -1,4 +1,4 @@
 # First Project
 
 This is my first project
-Created by Sushil Deshmukh
+Created by Sushil Deshmukh.

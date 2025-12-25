@@ -1,4 +1,2 @@
-//Add new features - Button
-// Add new feature - Form
+// Add new Feature - Heading
 
-// add new feature - Input 
